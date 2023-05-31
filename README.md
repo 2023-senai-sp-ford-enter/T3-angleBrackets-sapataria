@@ -1,2 +1,3 @@
-# T3-angleBrackets-sapataria
-Projeto piloto da equipe &lt;Angle Brackets>.
+# Sapataria
+## T3 - Noturno
+:shoe: Projeto piloto, com metodologia SCRUM, da equipe &lt;Angle Brackets>.

@@ -163,17 +163,25 @@ header #headerImg {
 
 /* -------------- Página Index -------------- */
 
-.artImg {
+.cardImg {
     width: 30vh;
     height: 30vh;
     margin: 1vh;
     border-radius: 4px;
+    background-color: var(--cor-secundaria);
 }
 
-.artImg:hover {
+.cardImg:hover {
     transform: scale(1.1);
     transition: ease-in-out 0.3s;
     box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.514);
+}
+
+.artImg {
+    width: 100%;
+    height: 30vh;
+    /* margin: 1vh; */
+    border-radius: 4px;
 }
 
 .artSapato {

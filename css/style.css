@@ -228,7 +228,9 @@ header #headerImgSobre {
 
 #ronaldo img {
     width: 50vw;
-    border-radius: 4px;
+    box-shadow: 5px 5px 10px black, 
+    -1px 0 black;
+    border-radius: 8px;
 }
 
 @media screen and (max-width: 992px) {

@@ -171,13 +171,14 @@ header #headerImg {
 .cardImg {
   border-radius: 8px;
   margin: 20px;
-  /* width: 30vh; */
+  width: 30vh;
   transition: all 0.3s ease-out;
   background-color: var(--cor-secundaria);
 }
 
 .cardImg p {
   margin-left: 15px;
+  margin-right: 15px;
 }
 
 .cardImg del {
